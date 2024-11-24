@@ -1,13 +1,13 @@
-package com.epam.social.media;
+package com.epam.socialmedia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SocialMediaAiApplication {
+public class SocialMediaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SocialMediaAiApplication.class, args);
+        SpringApplication.run(SocialMediaApplication.class, args);
     }
 
 }
