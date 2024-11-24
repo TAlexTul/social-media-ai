@@ -20,5 +20,5 @@ To run "mvn checkstyle:check".
 - Which challenges did you face during completion of the task?<br>
   Answer: Adding quality checks (coverage, complexity, check style).
 - Which specific prompts you learned as a good practice to complete the task?<br>
-  Answer: Is it ok to store DB credentials in the source code or properties files? Please fix it. Create JUnit tests. 
+  Answer: Is it ok to store DB credentials in the source code or properties files? Please fix it. Create JUnit tests.
 Add test coverage.
